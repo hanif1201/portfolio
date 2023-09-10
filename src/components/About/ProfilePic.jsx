@@ -1,4 +1,4 @@
-import profilePic from "../../assets/images/profile-pic.jpg";
+import profilePic from "../../assets/images/pics005.jpeg";
 import useHover from "../../hooks/use-hover";
 
 const ProfilePic = () => {
@@ -13,7 +13,7 @@ const ProfilePic = () => {
 			onMouseOut={handleMouseOut}
 		>
 			<div
-				className={`max-w-[500px] transition-normal ease-out contrast-[1] ${
+				className={`max-w-[500px]  transition-normal ease-out contrast-[1] object-cover ${
 					!isHovering && "grayscale mix-blend-multiply"
 				}`}
 			>

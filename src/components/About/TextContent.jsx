@@ -3,8 +3,7 @@ const TextContent = () => {
 	return (
 		<div className="flex flex-col space-y-2">
 			<p>
-				Hi, I'm Ebuka, a front-end web developer specializing in
-				React.js and Tailwind CSS. I'm passionate about creating
+				Hi, I'm Hanif, a front-end web developer specializing in React Framework (React.Js and React Native). I'm passionate about creating
 				engaging digital experiences and am always eager to learn and
 				grow.
 			</p>
@@ -25,7 +24,7 @@ const TextContent = () => {
 				projects.
 			</p>
 			<p className="italic text-green">
-				Below are a list of my tools and languages
+				Below are a list of my Stacks;
 			</p>
 		</div>
 	);

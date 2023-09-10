@@ -17,16 +17,22 @@ const Contact = () => {
 					Get in touch
 				</h2>
 				<p className="mb-12">
-					I'm currently looking for any new opportunities, my inbox is
-					always open. Whether you have a question, want to
+					I'm currently open for any new opportunities, my inbox is
+					always open, you can connect with me on Upwork. Whether you have a question, want to
 					collaborate on a project or just want to say hi, I'll
 					definitely get back to you!
 				</p>
 				<ButtonLink
 					className="py-3 px-10"
-					href="mailto:ebukathedev@gmail.com"
+					href="mailto:adeyemihanif@gmail.com"
 				>
 					Say hello
+				</ButtonLink>
+				<ButtonLink
+					className="py-3 px-10 mt-6 "
+					href="https://www.upwork.com/freelancers/~01def75cb3d2a5420d"
+				>
+					Connect With Me on Upwork
 				</ButtonLink>
 			</DivContainer>
 		</section>

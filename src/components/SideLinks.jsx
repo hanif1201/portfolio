@@ -18,12 +18,12 @@ const SideLinks = () => {
 			>
 				<div className="flex flex-col items-center relative text-[13px]">
 					<a
-						href="mailto:ebukathedev@gmail.com"
+						href="mailto:adeyemihanif@gmail.com"
 						className="p-[10px] my-5 tracking-widest transition-normal hover:text-green hover:-translate-y-[3px]"
 						style={{ writingMode: "vertical-rl" }}
 						title="My email"
 					>
-						ebukathedev@gmail.com
+						adeyemihanif@gmail.com
 					</a>
 					<span className="hidden md:block w-[1px] h-[90px] bg-light-green-slate mx-auto"></span>
 				</div>

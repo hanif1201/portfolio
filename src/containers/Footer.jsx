@@ -10,23 +10,18 @@ const Footer = () => {
 			</DivContainer>
 			<DivContainer className="space-y-1 text-[13px] tracking-wide">
 				<a
-					href="https://github.com/ebukathedev/my-portfolio-site"
+					href="https://hanifdev.com"
 					target="_blank"
 					rel="noreferrer"
 					className="transition-normal hover:text-green"
 				>
-					Built by Ebuka Ejiofor
+					Built by Hanif Adeyemi
 				</a>
 				<p>
 					Design inspired by{" "}
 					<InlineLink
 						href="https://v4.brittanychiang.com/"
 						text="Brittany Chiang"
-					/>{" "}
-					and{" "}
-					<InlineLink
-						href="https://kromate.dev/"
-						text="Anthony Akpan"
 					/>
 				</p>
 			</DivContainer>
